@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "images": "assets/banknote.jpeg"
+    },
+    {
+      "images": "assets/securitypaper.jpeg"
+    },
+    {
+      "images": "assets/sackraft.jpeg"
+    }
+  ]
+}
